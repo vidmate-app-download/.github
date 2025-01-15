@@ -8,7 +8,7 @@ VidMate is a popular app used for downloading videos, music, and other media fro
 
 VidMate is a free application that allows users to download videos, music, and other content from websites like YouTube, Facebook, Instagram, and many more. It’s primarily an Android app. VidMate is useful for people who want to save online content and watch it offline later. It is not available on Google Play Store due to Google’s policies but can be downloaded from its official website or trusted third-party sources.
 
-
+![Vid-Mate](https://github.com/user-attachments/assets/18bcb6d7-0e3d-4b03-9c77-3c3d90a30253)
 
 ## Features of VidMate
 
